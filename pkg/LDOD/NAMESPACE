@@ -1,0 +1,17 @@
+export(
+"cfderiv",
+"cfisher",
+"eff",
+"ldemax",
+"ldexpdose",
+"ldiq",
+"ldloglin",
+"ldlogistic",
+"ldmm",
+"ldnbinom",
+"ldpoisson",
+"ldrichards",
+"ldweibull")
+
+import("Rmpfr")
+import("Rsolnp")
